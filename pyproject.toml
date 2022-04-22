@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "very_basic_calculator"
+version = "0.1.0"
+description = "A very basic python calculator"
+authors = ["luanleonardo <llvdmoraes@gmail.com>"]
+repository = ""
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
