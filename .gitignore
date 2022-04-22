@@ -4,6 +4,8 @@
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
+tests/__pycache__/
+very_basic_calculator/__pycache__/
 __pycache__/
 *.py[cod]
 *$py.class
