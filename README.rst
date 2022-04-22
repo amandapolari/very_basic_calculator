@@ -1,0 +1,1 @@
+I'm learning to create and manage Python projects with poetry
