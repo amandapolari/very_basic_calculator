@@ -3,7 +3,7 @@ name = "very_basic_calculator"
 version = "0.1.0"
 description = "A very basic python calculator"
 authors = ["luanleonardo <llvdmoraes@gmail.com>"]
-repository = ""
+repository = "https://github.com/luanleonardo/very_basic_calculator"
 license = "MIT"
 
 [tool.poetry.dependencies]
