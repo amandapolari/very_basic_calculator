@@ -2,6 +2,7 @@
 name = "very_basic_calculator"
 version = "0.1.0"
 description = "A very basic python calculator"
+readme = "README_pypi.rst"
 authors = ["luanleonardo <llvdmoraes@gmail.com>"]
 repository = "https://github.com/luanleonardo/very_basic_calculator"
 license = "MIT"
