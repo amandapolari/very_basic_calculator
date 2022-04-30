@@ -1,2 +1,2 @@
-def power(x: int, y: int) -> int:
+def power(x: int, y: int) -> float:
     return x ** y
