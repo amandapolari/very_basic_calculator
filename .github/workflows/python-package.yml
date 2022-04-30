@@ -42,7 +42,7 @@ jobs:
 #        poetry run mypy --ignore-missing-imports .
     - name: Check whether black formatter was run
       run: |
-        poetry run black --check
+        poetry run black --check .
     - name: Run tests and check coverage
       run: |
         # Fail if total coverage is below 95%
