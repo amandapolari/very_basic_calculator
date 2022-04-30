@@ -8,3 +8,6 @@ poetry run flake8 . --count --exit-zero --max-complexity=10 --max-line-length=79
 
 # Check mypy
 poetry run mypy --ignore-missing-imports .
+
+# Check black formatter
+poetry run black --check .
